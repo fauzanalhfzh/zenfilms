@@ -34,3 +34,12 @@
 .images {
     height: 500px;
 }
+
+.navbarNama {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #eaeaea;
+    font-size: 25px;
+    display: flex;
+    align-items: flex-start;
+    padding: 15px;
+}
